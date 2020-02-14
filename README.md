@@ -1,4 +1,4 @@
-# Coffee Ordering program for customers
+# Coffee ordering program for customers
 
 This program is meant to optimize the path of efficient coffee ordering around the globe! 
 It’s purpose is to make it easy and efficient for a customer to order their coffee. 
